@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    background-color: #C39BD3;
+    border: solid 3px;
+    
+}
+h2{
+    background-color: rgb(237, 207, 248);ç
+    border: solid 3px;
+    text-align: center;
+    color: #5B2C6F;
+    
+}
+body{
+    background-color:rgb(240, 169, 213) ;
+    margin: 100px;
+    
+}
+.Negrita{
+    color: ##5B2C6F;
+    background-color: #E8DAEF;
+}
+.Divisiones{
+    color: #5B2C6F;
+    background-color: #E8DAEF;
+}
+.row{
+    text-align: center;
+}
